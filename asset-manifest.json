@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/I-love-you/static/css/main.bdb9af1d.css",
+    "main.js": "/I-love-you/static/js/main.769d5ee8.js",
+    "static/js/488.48dbcda9.chunk.js": "/I-love-you/static/js/488.48dbcda9.chunk.js",
+    "index.html": "/I-love-you/index.html",
+    "main.bdb9af1d.css.map": "/I-love-you/static/css/main.bdb9af1d.css.map",
+    "main.769d5ee8.js.map": "/I-love-you/static/js/main.769d5ee8.js.map",
+    "488.48dbcda9.chunk.js.map": "/I-love-you/static/js/488.48dbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdb9af1d.css",
+    "static/js/main.769d5ee8.js"
+  ]
+}
