@@ -79,9 +79,8 @@ body {
 
 [for='toggle-heart'] {
   align-self: center;
-  color: #888;
+  color: #e2264d;
   font-size: 8em;
-  filter: grayscale(1);
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
