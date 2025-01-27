@@ -1,6 +1,6 @@
 {
-  "short_name": "I Love You",
-  "name": "I Love You Alicia",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
